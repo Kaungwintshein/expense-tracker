@@ -1,3 +1,6 @@
+# React Expense Tracker App
+In this expense tracker React project app using hooks (useState, useContext, useReducer) and the context API.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
