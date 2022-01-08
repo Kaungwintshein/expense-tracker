@@ -5,6 +5,7 @@ const morgan = require("morgan");
 const connectDB = require("./config/db");
 
 const app = express();
+app.use(express.json());
 dotenv.config({ path: "./config/config.env" });
 connectDB();
 
